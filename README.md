@@ -1,7 +1,3 @@
-Here’s a **professional, clear, and complete README.md** for your project:
-
----
-
 # 🤟 AI-Powered Indian Sign Language (ISL) Translator – Web Version
 
 ## 📌 Overview
